@@ -1,11 +1,11 @@
-# 🛤️ Learning Path — Kickstart Your Computer Engineering Journey
+#  Learning Path — Kickstart Your Computer Engineering Journey
 
 Welcome to **Learning-path** — your starting point to dive into the world of **Computer Engineering**.  
 Here, you’ll find curated resources to guide you from **the basics** all the way to **advanced topics**.
 
 ---
 
-## 📚 What's Inside
+##  What's Inside
 
 This repository contains resources covering:
 
@@ -20,7 +20,7 @@ Some materials are generously shared by professors from their courses, with **ve
 
 ---
 
-## 🤝 Contribute
+##  Contribute
 
 Contributions are **highly encouraged**!  
 If you have useful resources, better explanations, or want to improve the repo’s structure, please submit a pull request.  
@@ -28,17 +28,17 @@ I will keep adding materials **every once in a while** to ensure this stays fres
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Got suggestions or improvements?  
 Reach out at **mohammadamra00@gmail.com** — I’d be more than happy to hear from you.
 
 ---
 
-## 🌟 Motivation
+
 
 > Start today.  
-> Maybe we can't see tomorrow.  
+> Maybe we wont see tomorrow.  
 > Don’t take your opportunity of living for granted — it’s not infinite.
 
 ---
